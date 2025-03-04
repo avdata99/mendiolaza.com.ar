@@ -1,2 +1,3 @@
-# mendiolaza.com.ar
-mendiolaza.com.ar site
+# Simple sitio estático
+
+Sitio mendiolaza.com.ar
