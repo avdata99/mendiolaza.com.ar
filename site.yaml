@@ -1,0 +1,98 @@
+site:
+  title: "Mendiolaza"
+  subtitle: "Noticias y novedades de nuestra ciudad"
+  description: "Portal de noticias de Mendiolaza, Cordoba, Argentina"
+  url: "https://mendiolaza.com.ar"
+  email: "info@mendiolaza.com.ar"
+  language: "es"
+  country: "AR"
+  template: "starter"
+
+content:
+  articles_on_homepage: 20
+  max_description_length: 250
+  max_article_age_days: 30
+
+sources:
+  - type: rss
+    name: "Municipalidad de Mendiolaza"
+    url: "https://www.mendiolaza.gob.ar/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
+    name: "El Milenio"
+    url: "https://elmilenio.info/secciones/mendiolaza/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
+    name: "De Mendiolaza"
+    url: "https://demendiolaza.com.ar/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
+    name: "La Unión Regional"
+    url: "https://www.launionregional.com.ar/category/mendiolaza/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
+    name: "Sierras Chicas Vivo"
+    url: "https://www.sierraschicasvivo.com/feed/"
+    keywords: ["mendiolaza"]
+    limit: 10
+
+  - type: rss
+    name: "Info Sierras"
+    url: "https://infosierras.com/feed/"
+    keywords: ["mendiolaza"]
+    limit: 10
+
+  - type: youtube
+    name: "Telefe Córdoba"
+    channel: "@telefecordoba"
+    keywords: ["mendiolaza"]
+    limit: 5
+
+  - type: youtube
+    name: "De Mendiolaza"
+    channel: "@demendiolaza3840"
+    keywords: []
+    limit: 5
+
+  - type: youtube
+    name: "lagarto Show"
+    channel: "@LagartoShowOk"
+    keywords: ["mendiolaza"]
+    limit: 5
+
+  - type: youtube
+    name: "Canal 10"
+    channel: "@canal10cordoba"
+    keywords: ["mendiolaza"]
+    limit: 5
+
+  - type: youtube
+    name: "La Voz"
+    channel: "@lavozcomar"
+    keywords: ["mendiolaza"]
+    limit: 5
+
+  - type: youtube
+    name: "El Doce"
+    channel: "@eldoce"
+    keywords: ["mendiolaza"]
+    limit: 5
+
+  - type: youtube
+    name: "El Milenio"
+    channel: "@elmileniook"
+    keywords: ["mendiolaza"]
+    limit: 5
+
+  - type: google_news
+    name: "Noticias de Mendiolaza"
+    query: "Mendiolaza Cordoba"
+    limit: 15
