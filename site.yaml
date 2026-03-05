@@ -6,7 +6,7 @@ site:
   email: "info@mendiolaza.com.ar"
   language: "es"
   country: "AR"
-  template: "starter"
+  template: "neon"
 
 content:
   articles_on_homepage: 20
