@@ -754,5 +754,17 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "polo-y-pato-en-mendiolaza-un-fin-de-semana-a-pura-tradicion-y-deporte-ecuestre-nexofmcomar"
+  },
+  "base-se-hace-tarde-copia": {
+    "title": "Base Se hace tarde copia",
+    "link": "https://www.youtube.com/watch?v=nPRB480n6LQ",
+    "description": "",
+    "pub_date": "05/03/2026",
+    "pub_date_raw": "2026-03-05T01:18:39",
+    "image": "https://i3.ytimg.com/vi/nPRB480n6LQ/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "nPRB480n6LQ",
+    "slug": "base-se-hace-tarde-copia"
   }
 }
