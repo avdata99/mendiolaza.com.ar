@@ -24,7 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r engine/requirements.txt
+        run: pip install ./engine
 
       - name: Build site
         working-directory: engine
