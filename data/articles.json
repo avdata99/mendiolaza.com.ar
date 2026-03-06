@@ -879,5 +879,41 @@
     "video_id": null,
     "slug": "concejo-de-mendiolaza-3-de-marzo-de-2026",
     "image_original": "https://demendiolaza.com.ar/wp-content/uploads/2026/03/Concejo-de-Mendiolaza-3-de-marzo-de-2026.jpg"
+  },
+  "base-se-hace-tarde-copia-1": {
+    "title": "Base Se hace tarde copia 1",
+    "link": "https://www.youtube.com/watch?v=fpb9CGJBt6Y",
+    "description": "",
+    "pub_date": "06/03/2026",
+    "pub_date_raw": "2026-03-06T18:37:25",
+    "image": "https://i3.ytimg.com/vi/fpb9CGJBt6Y/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "fpb9CGJBt6Y",
+    "slug": "base-se-hace-tarde-copia-1"
+  },
+  "comision-de-la-memoria": {
+    "title": "comision de la memoria",
+    "link": "https://www.youtube.com/watch?v=8Im9iGP8nyY",
+    "description": "",
+    "pub_date": "06/03/2026",
+    "pub_date_raw": "2026-03-06T18:23:38",
+    "image": "https://i1.ytimg.com/vi/8Im9iGP8nyY/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "8Im9iGP8nyY",
+    "slug": "comision-de-la-memoria"
+  },
+  "vecinos-de-la-dracena-en-mananitas-de-mendiolaza": {
+    "title": "Vecinos de La Drácena en Mañanitas de Mendiolaza",
+    "link": "https://www.youtube.com/watch?v=EN2qaPt7KtA",
+    "description": "",
+    "pub_date": "06/03/2026",
+    "pub_date_raw": "2026-03-06T17:57:16",
+    "image": "https://i2.ytimg.com/vi/EN2qaPt7KtA/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "EN2qaPt7KtA",
+    "slug": "vecinos-de-la-dracena-en-mananitas-de-mendiolaza"
   }
 }
