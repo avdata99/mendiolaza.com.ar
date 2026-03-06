@@ -1,12 +1,17 @@
 site:
   title: "Mendiolaza"
   subtitle: "Noticias y novedades de nuestra ciudad"
-  description: "Portal de noticias de Mendiolaza, Cordoba, Argentina"
+  description: "Portal de noticias de Mendiolaza, Córdoba, Argentina"
   url: "https://mendiolaza.com.ar"
   email: "info@mendiolaza.com.ar"
   language: "es"
   country: "AR"
   template: "neon"
+  map:
+    latitude: -31.259723
+    longitude: -64.298915
+    title: "¿Dónde queda Mendiolaza?"
+    zoom: 13
 
 content:
   articles_on_homepage: 20
