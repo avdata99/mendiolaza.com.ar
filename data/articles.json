@@ -927,5 +927,79 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "mendiolaza-corre-2025-cordoba-turismo"
+  },
+  "la-cercania-en-mendiolaza": {
+    "title": "La Cercanía en Mendiolaza",
+    "link": "https://demendiolaza.com.ar/la-cercania-en-mendiolaza/",
+    "description": "Debate por un acceso hacia calle Azarero El debate por la apertura de un acceso vehicular entre el barrio privado La Cercanía y calle Azarero, en barrio El Talar de Mendiolaza, volvió a instalarse en la agenda pública tras la última sesión del Concejo Deliberante. En esa reunión ingresaron dos iniciativas sobre el mismo tema: una nueva nota presentada por vecinos de La Cercanía y un proyecto de ordenanza enviado por el Departamento Ejecutivo Municipal, que propone modificar la normativa vigente para habilitar un egreso vehicular controlado hacia esa calle. La posibilidad reactivó la preocupación de los vecinos de Azarero, […] La entrada La Cercanía en Mendiolaza se publicó primero en Información de Mendiolaza. Portal de noticias, radio y Directorio Comercial.",
+    "pub_date": "05/03/2026",
+    "pub_date_raw": "2026-03-05T15:04:00",
+    "image": "/img/6daa752e0347fd1d.jpg",
+    "source_name": "De Mendiolaza",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "la-cercania-en-mendiolaza",
+    "image_original": "https://demendiolaza.com.ar/wp-content/uploads/2026/03/La-Cercania-en-Mendiolaza.jpg"
+  },
+  "marcelo-elmo-inspiracion-en-mendiolaza": {
+    "title": "Marcelo Elmo, inspiración en Mendiolaza",
+    "link": "https://demendiolaza.com.ar/marcelo-elmo-inspiracion-en-mendiolaza/",
+    "description": "La creación individual y lo colectivo El músico Marcelo Elmo, vecino de Mendiolaza desde hace más de una década, compartió en una entrevista con la radio Demendiolaza detalles de su historia con la música, su vida en la ciudad y las distintas facetas de su trabajo artístico y docente. Con una trayectoria que abarca desde el folclore hasta la música académica, Elmo refleja una relación abierta y profunda con el arte, marcada por la pasión y la búsqueda constante. Marcelo Elmo Quince años de vida en Mendiolaza Marcelo Elmo vive en Mendiolaza desde hace aproximadamente 15 años, cuando decidió mudarse […] La entrada Marcelo Elmo, inspiración en Mendiolaza se publicó primero en Información de Mendiolaza. Portal de noticias, radio y Directorio Comercial.",
+    "pub_date": "04/03/2026",
+    "pub_date_raw": "2026-03-04T15:50:00",
+    "image": "/img/35e5fba586d1efa8.jpg",
+    "source_name": "De Mendiolaza",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "marcelo-elmo-inspiracion-en-mendiolaza",
+    "image_original": "https://demendiolaza.com.ar/wp-content/uploads/2026/03/Marcelo-Elmo-inspiracion-en-Mendiolaza.jpg"
+  },
+  "vecinos-de-calle-azarero-en-se-hace-tarde": {
+    "title": "Vecinos de calle Azarero en Se hace tarde",
+    "link": "https://www.youtube.com/watch?v=fpb9CGJBt6Y",
+    "description": "",
+    "pub_date": "06/03/2026",
+    "pub_date_raw": "2026-03-06T18:37:25",
+    "image": "https://i3.ytimg.com/vi/fpb9CGJBt6Y/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "fpb9CGJBt6Y",
+    "slug": "vecinos-de-calle-azarero-en-se-hace-tarde"
+  },
+  "comision-de-la-memoria-en-mananitas-de-mendiolaza": {
+    "title": "Comision de la memoria en Mañanitas de Mendiolaza",
+    "link": "https://www.youtube.com/watch?v=8Im9iGP8nyY",
+    "description": "",
+    "pub_date": "06/03/2026",
+    "pub_date_raw": "2026-03-06T18:23:38",
+    "image": "https://i1.ytimg.com/vi/8Im9iGP8nyY/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "8Im9iGP8nyY",
+    "slug": "comision-de-la-memoria-en-mananitas-de-mendiolaza"
+  },
+  "marcelo-elmo-en-se-hace-tarde": {
+    "title": "Marcelo Elmo en Se hace tarde",
+    "link": "https://www.youtube.com/watch?v=nPRB480n6LQ",
+    "description": "",
+    "pub_date": "05/03/2026",
+    "pub_date_raw": "2026-03-05T01:18:39",
+    "image": "https://i3.ytimg.com/vi/nPRB480n6LQ/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "nPRB480n6LQ",
+    "slug": "marcelo-elmo-en-se-hace-tarde"
+  },
+  "hcd-de-mendiolaza-sesion-3-3-26": {
+    "title": "HCD de Mendiolaza Sesion 3 3 26",
+    "link": "https://www.youtube.com/watch?v=4-6G3lx7huM",
+    "description": "",
+    "pub_date": "04/03/2026",
+    "pub_date_raw": "2026-03-04T01:12:48",
+    "image": "https://i1.ytimg.com/vi/4-6G3lx7huM/hqdefault.jpg",
+    "source_name": "Demendiolaza",
+    "source_type": "youtube",
+    "video_id": "4-6G3lx7huM",
+    "slug": "hcd-de-mendiolaza-sesion-3-3-26"
   }
 }
