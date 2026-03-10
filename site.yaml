@@ -61,11 +61,11 @@ sources:
     keywords: ["mendiolaza"]
     limit: 5
 
-  - type: youtube
-    name: "De Mendiolaza"
-    channel: "@demendiolaza3840"
-    keywords: []
-    limit: 5
+  # - type: youtube
+  #   name: "De Mendiolaza"
+  #   channel: "@demendiolaza3840"
+  #   keywords: []
+  #   limit: 5
 
   - type: youtube
     name: "lagarto Show"
