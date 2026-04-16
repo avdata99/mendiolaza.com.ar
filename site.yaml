@@ -32,6 +32,12 @@ sources:
     limit: 10
 
   - type: rss
+    name: "Nexo FM"
+    url: "https://nexofm.com.ar/category/seleccionar-15/feed/"
+    keywords: []
+    limit: 10
+
+  - type: rss
     name: "De Mendiolaza"
     url: "https://demendiolaza.com.ar/feed/"
     keywords: []
