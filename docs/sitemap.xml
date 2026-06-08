@@ -7,6 +7,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://mendiolaza.com.ar/articles/mendiolaza-prohibe-cuidacoches-y-limpiavidrios/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mendiolaza.com.ar/articles/mendiolaza-abriga-a-80-familias-de-la-ciudad/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mendiolaza.com.ar/articles/reir-para-pensar-en-mendiolaza/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +50,12 @@
   </url>
   <url>
     <loc>https://mendiolaza.com.ar/articles/epec-anuncio-cortes-programados-para-este-jueves-en-cordoba-y-localidades-del-interior-canal-c/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mendiolaza.com.ar/articles/cajoneo-de-proyectos-en-mendiolaza/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1388,6 +1406,12 @@
   </url>
   <url>
     <loc>https://mendiolaza.com.ar/articles/haya-paz/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mendiolaza.com.ar/articles/mendiolaza-cordoba-turismo/</loc>
     <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
