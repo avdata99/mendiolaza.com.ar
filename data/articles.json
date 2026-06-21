@@ -3373,5 +3373,17 @@
     "video_id": null,
     "slug": "herido-durante-una-discusion-en-mendiolaza",
     "image_original": "https://demendiolaza.com.ar/wp-content/uploads/2026/06/Herido-durante-una-discusion-en-Mendiolaza.jpg"
+  },
+  "casa-clausura-arqa": {
+    "title": "Casa Clausura - ARQA",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PalUzQ1RMUEFZZmJXLTUxNmVzbUhwU2FORnJZdHNwNXpsQWJWcHdSTlNkVW1ybnF2RV96VkpJWDNwSHBod2dQek8yclFmNXJQMkJkM3pBUW9xaXBM?oc=5",
+    "description": "Casa Clausura ARQA",
+    "pub_date": "17/10/2025",
+    "pub_date_raw": "2025-10-17T07:00:00",
+    "image": null,
+    "source_name": "ARQA",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "casa-clausura-arqa"
   }
 }
