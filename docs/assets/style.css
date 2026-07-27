@@ -495,6 +495,56 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 /* ========================================
+   AD SLOTS
+   ======================================== */
+.ad-slot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.ad-label {
+    font-size: 0.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--text-muted);
+}
+
+.ad-slot a {
+    display: block;
+    width: 100%;
+}
+
+.ad-slot video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-sm);
+}
+
+.ad-banner {
+    max-width: 900px;
+    margin: 1.5rem auto 2rem;
+}
+
+/* Vertical ad lives inside .card-grid as one more cell */
+.ad-vertical {
+    justify-content: center;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 0.75rem;
+}
+
+.ad-vertical a,
+.ad-vertical video {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* ========================================
    MAP SECTION (homepage)
    ======================================== */
 .map-section {
