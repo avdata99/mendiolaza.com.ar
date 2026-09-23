@@ -4504,11 +4504,12 @@
     "description": "La Provincia responde a Mendiolaza: Recibe $350 millones en obras y subsidios cadena3.com",
     "pub_date": "05/03/2026",
     "pub_date_raw": "2026-03-05T08:00:00",
-    "image": null,
+    "image": "/img/71de4760c13c16b0.jpg",
     "source_name": "cadena3.com",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "la-provincia-responde-a-mendiolaza-recibe-350-millones-en-obras-y-subsidios-cadena3com"
+    "slug": "la-provincia-responde-a-mendiolaza-recibe-350-millones-en-obras-y-subsidios-cadena3com",
+    "image_original": "https://images-tools.cadena3.com/tools/r/cca76671-fdb9-4357-94c3-007064c4d6e5.jpg?width=1200&height=895"
   },
   "mendiolaza-se-decomisaron-370-kg-de-carne-en-mal-estado": {
     "title": "Mendiolaza: se decomisaron 370 kg de carne en mal estado",
@@ -5607,6 +5608,19 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "mendiolaza-acuerdo-de-aumento-salarial-otorga-2829-a-diciembre-atecordobaorg",
+    "link_intentos": 2
+  },
+  "mendiolaza-acuerdo-de-aumento-salarial-otorga-2829-a-diciembre-ate-cordoba": {
+    "title": "Mendiolaza: acuerdo de aumento salarial otorga 28.29% a diciembre - Ate Córdoba",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ObngwbllteGppMldFNmNTYzIzNkh0OEh0MjZycTc0R2Vpc2JGRlY4UUdnSF9SUHF3dU90RkRfbFIyUlF3R1E?oc=5",
+    "description": "Mendiolaza: acuerdo de aumento salarial otorga 28.29% a diciembre Ate Córdoba",
+    "pub_date": "22/09/2026",
+    "pub_date_raw": "2026-09-22T17:48:45",
+    "image": null,
+    "source_name": "Ate Córdoba",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "mendiolaza-acuerdo-de-aumento-salarial-otorga-2829-a-diciembre-ate-cordoba",
     "link_intentos": 1
   }
 }
