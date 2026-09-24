@@ -3785,11 +3785,12 @@
     "description": "El Talar suma obras de iluminación, señalización y pavimentación para mejorar la infraestructura Perfil",
     "pub_date": "17/07/2026",
     "pub_date_raw": "2026-07-17T15:15:21",
-    "image": null,
+    "image": "/img/c638c7ce1211f141.jpg",
     "source_name": "Perfil",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "el-talar-suma-obras-de-iluminacion-senalizacion-y-pavimentacion-para-mejorar-la-infraestructura-perf"
+    "slug": "el-talar-suma-obras-de-iluminacion-senalizacion-y-pavimentacion-para-mejorar-la-infraestructura-perf",
+    "image_original": "https://fotos.perfil.com/2026/07/17/trim/1140/641/mendiolaza-2285108.jpg"
   },
   "villa-allende-avanza-la-obra-de-avenida-bodereau-y-manana-habra-cortes-de-transito-cordoba-interior": {
     "title": "Villa Allende: Avanza la obra de avenida Bodereau y mañana habrá cortes de tránsito - Córdoba Interior Informa",
@@ -5621,7 +5622,7 @@
     "source_type": "google_news",
     "video_id": null,
     "slug": "mendiolaza-acuerdo-de-aumento-salarial-otorga-2829-a-diciembre-ate-cordoba",
-    "link_intentos": 2
+    "link_intentos": 3
   },
   "sierra-nueva-busca-su-comision-vecinal-dos-listas-y-una-eleccion-en-camino": {
     "title": "Sierra Nueva busca su comisión vecinal: dos listas y una elección en camino",
@@ -5660,5 +5661,18 @@
     "video_id": null,
     "slug": "mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba-expresion-norte",
     "image_original": "https://expresionnorte.com.ar/wp-content/uploads/2026/09/papapa.jpg"
+  },
+  "nuevo-espacio-de-encuentro-cultural-en-mendiolaza": {
+    "title": "Nuevo espacio de encuentro cultural en Mendiolaza",
+    "link": "https://demendiolaza.com.ar/nuevo-espacio-de-encuentro-cultural-en-mendiolaza/",
+    "description": "Un respiro con aroma a café y literatura En medio del ya citadino tránsito de la A. Tissera, existe un rincón pensado para detener el tiempo, disfrutar de un momento agradable y dejarse llevar por el placer de las buenas lecturas. Se trata de Paréntesis, un cálido espacio que invita a los vecinos a hacer una pausa en la rutina diaria y que ahora suma a su propuesta de café literario quincenal. El café literario: un viaje a través del disfrute y la palabra Más allá de sus delicias gastronómicas, Paréntesis ha decidido apostar fuerte por la cultura local. Para […] La entrada Nuevo espacio de encuentro cultural en Mendiolaza se publicó primero en Información de Mendiolaza. Portal de noticias, radio y Directorio Comercial.",
+    "pub_date": "24/09/2026",
+    "pub_date_raw": "2026-09-24T15:35:46",
+    "image": "/img/98a0c052106ee1cc.jpg",
+    "source_name": "De Mendiolaza",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "nuevo-espacio-de-encuentro-cultural-en-mendiolaza",
+    "image_original": "https://demendiolaza.com.ar/wp-content/uploads/2026/09/Nuevo-espacio-de-encuentro-cultural-en-Mendiolaza.jpg"
   }
 }
