@@ -4263,11 +4263,12 @@
     "description": "Violento asalto de ladrones armados contra dos adultos mayores en una casa de Mendiolaza lavoz.com.ar",
     "pub_date": "11/06/2026",
     "pub_date_raw": "2026-06-11T07:00:00",
-    "image": null,
+    "image": "/img/d90bf6217b5178ee.jpg",
     "source_name": "lavoz.com.ar",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "violento-asalto-de-ladrones-armados-contra-dos-adultos-mayores-en-una-casa-de-mendiolaza-lavozcomar"
+    "slug": "violento-asalto-de-ladrones-armados-contra-dos-adultos-mayores-en-una-casa-de-mendiolaza-lavozcomar",
+    "image_original": "https://www.lavoz.com.ar/2026/06/11/Oe9srl1p2r_1300x867.jpg"
   },
   "karate-en-mendiolaza": {
     "title": "Karate en Mendiolaza",
