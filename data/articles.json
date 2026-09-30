@@ -5875,7 +5875,7 @@
     "link": "https://www.conclusion.com.ar/info-general/el-temporal-en-cordoba-causo-destrozos-cayo-granizo-del-tamano-de-una-pelota-de-golf/09/2026/",
     "description": "El temporal en Córdoba causó destrozos: cayó granizo del tamaño de una pelota de golf conclusion.com.ar",
     "pub_date": "28/09/2026",
-    "pub_date_raw": "2026-09-28T13:43:24",
+    "pub_date_raw": "2026-09-28T13:47:12",
     "image": "/img/da0a06eb989782ef.jpg",
     "source_name": "conclusion.com.ar",
     "source_type": "google_news",
@@ -5973,7 +5973,7 @@
     "link": "https://www.pagina12.com.ar/2026/09/28/fuerte-tormenta-de-granizo-en-cordoba-unquillo-y-mendiolaza-las-ciudades-mas-afectadas/",
     "description": "Fuerte tormenta de granizo en Córdoba: Unquillo y Mendiolaza, las ciudades más afectadas Página|12",
     "pub_date": "28/09/2026",
-    "pub_date_raw": "2026-09-28T15:39:07",
+    "pub_date_raw": "2026-09-28T15:40:31",
     "image": "https://www.pagina12.com.ar/resizer/v2/V2VVHCYHNBGYNDM3TOX4TVY4BM.webp?smart=true&amp;auth=4df5770a5e8d2ee29e2fbf6bf1f294358e79a544141bb0c3e1b3b4247d508928&amp;width=1200&amp;height=630",
     "source_name": "Página|12",
     "source_type": "google_news",
@@ -6083,5 +6083,31 @@
     "video_id": null,
     "slug": "mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba-expresionnortecomar",
     "image_original": "https://expresionnorte.com.ar/wp-content/uploads/2026/09/papapa.jpg"
+  },
+  "audio-mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba-lu24-radio-tres-arroyo": {
+    "title": "(audio) Mendiolaza se prepara para la primera Carrera de “Autos Locos” de Córdoba - LU24 – Radio Tres Arroyos",
+    "link": "https://www.lu24.com.ar/locales/audio-mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba",
+    "description": "(audio) Mendiolaza se prepara para la primera Carrera de “Autos Locos” de Córdoba LU24 – Radio Tres Arroyos",
+    "pub_date": "30/09/2026",
+    "pub_date_raw": "2026-09-30T13:36:45",
+    "image": "/img/8c2195bf79f41e73.jpg",
+    "source_name": "LU24 – Radio Tres Arroyos",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "audio-mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba-lu24-radio-tres-arroyo",
+    "image_original": "https://img.lu24.com.ar/storage/v1/object/public/media/noticias/1790775018328-1so6-cropped-og.jpg"
+  },
+  "granizo-destrozos-y-fuertes-lluvias-en-cordoba-rige-una-alerta-amarilla-infobaecom": {
+    "title": "Granizo, destrozos y fuertes lluvias en Córdoba: rige una alerta amarilla - infobae.com",
+    "link": "https://www.infobae.com/sociedad/2026/09/28/granizo-destrozos-y-fuertes-lluvias-en-cordoba-rige-una-alerta-amarilla/",
+    "description": "Granizo, destrozos y fuertes lluvias en Córdoba: rige una alerta amarilla infobae.com",
+    "pub_date": "28/09/2026",
+    "pub_date_raw": "2026-09-28T16:08:00",
+    "image": "https://www.infobae.com/resizer/v2/3YAEOYV255G7LACVTV5YNC2R3A.jpg?auth=3bf05d3af72a0caf71ac1623d576460641dadb29fda5c23be7826b3aadaca939&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+    "source_name": "infobae.com",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "granizo-destrozos-y-fuertes-lluvias-en-cordoba-rige-una-alerta-amarilla-infobaecom",
+    "image_original": "https://www.infobae.com/resizer/v2/3YAEOYV255G7LACVTV5YNC2R3A.jpg?auth=3bf05d3af72a0caf71ac1623d576460641dadb29fda5c23be7826b3aadaca939&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85"
   }
 }
