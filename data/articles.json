@@ -5785,11 +5785,12 @@
     "description": "Cayó granizo en Córdoba: Unquillo y Mendiolaza, los más afectados, y rige alerta amarilla por tormentas qpasó",
     "pub_date": "28/09/2026",
     "pub_date_raw": "2026-09-28T15:28:54",
-    "image": null,
+    "image": "/img/ace42f4473c361b1.jpg",
     "source_name": "qpasó",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "cayo-granizo-en-cordoba-unquillo-y-mendiolaza-los-mas-afectados-y-rige-alerta-amarilla-por-tormentas"
+    "slug": "cayo-granizo-en-cordoba-unquillo-y-mendiolaza-los-mas-afectados-y-rige-alerta-amarilla-por-tormentas",
+    "image_original": "https://fotos.perfil.com/2026/09/28/trim/1140/641/granizada-en-cordoba-2335340.jpg"
   },
   "fuerte-tormenta-de-granizo-en-cordoba-unquillo-y-mendiolaza-las-ciudades-mas-afectadas-pagina12comar": {
     "title": "Fuerte tormenta de granizo en Córdoba: Unquillo y Mendiolaza, las ciudades más afectadas - pagina12.com.ar",
@@ -6043,5 +6044,44 @@
     "video_id": null,
     "slug": "impresionante-tormenta-de-granizo-sacudio-a-cordoba-hubo-destrozos-en-unquillo-y-mendiolaza-canal12m",
     "image_original": "https://www.canal12misiones.com/wp-content/uploads/2026/09/cordoba-granizo-tormenta-3.jpg"
+  },
+  "mendiolaza-despues-de-la-tormenta": {
+    "title": "Mendiolaza después de la tormenta",
+    "link": "https://demendiolaza.com.ar/mendiolaza-despues-de-la-tormenta/",
+    "description": "Balance municipal, y el testimonio de los vecinos El intenso temporal, con abundante caída de piedra que azotó ayer a Mendiolaza, dejó un saldo de daños materiales en vehículos y viviendas, anegamientos temporales por acumulación de follaje y seis familias asistidas. Mientras las autoridades municipales destacaron el funcionamiento de los desagües y el despliegue operativo, vecinos de distintos barrios expresaron su preocupación por los destrozos en propiedades privadas y el estado de la infraestructura. Asistencia social y evaluación de daños A 24 horas del fenómeno climático, el secretario de Gobierno de la Municipalidad de Mendiolaza, Javier Masuero, brindó un balance […] La entrada Mendiolaza después de la tormenta se publicó primero en Información de Mendiolaza. Portal de noticias, radio y Directorio Comercial.",
+    "pub_date": "30/09/2026",
+    "pub_date_raw": "2026-09-30T00:24:55",
+    "image": "/img/0a01b58c0c45aebb.jpg",
+    "source_name": "De Mendiolaza",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "mendiolaza-despues-de-la-tormenta",
+    "image_original": "https://demendiolaza.com.ar/wp-content/uploads/2026/09/Mendiolaza-despues-de-la-tormenta.jpg"
+  },
+  "autos-locos-mendiolaza-prepara-una-carrera-de-carritos-sin-motor-con-creatividad-y-solidaridad-caden": {
+    "title": "Autos Locos: Mendiolaza prepara una carrera de carritos sin motor, con creatividad y solidaridad - Cadena 3 Argentina",
+    "link": "https://www.cadena3.com/noticia/viva-la-radio/autos-locos-mendiolaza-prepara-una-carrera-de-carritos-sin-motor-con-creatividad-y-solidaridad_594903",
+    "description": "Autos Locos: Mendiolaza prepara una carrera de carritos sin motor, con creatividad y solidaridad Cadena 3 Argentina",
+    "pub_date": "16/09/2026",
+    "pub_date_raw": "2026-09-16T07:00:00",
+    "image": "/img/14e2f09cac1ca2a9.jpg",
+    "source_name": "Cadena 3 Argentina",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "autos-locos-mendiolaza-prepara-una-carrera-de-carritos-sin-motor-con-creatividad-y-solidaridad-caden",
+    "image_original": "https://images-tools.cadena3.com/tools/r/501d2b23-05f1-4eef-8a93-30641a4bfba7.jpg?width=1200&height=674"
+  },
+  "mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba-expresionnortecomar": {
+    "title": "Mendiolaza se prepara para la primera Carrera de Autos Locos de Córdoba - expresionnorte.com.ar",
+    "link": "https://expresionnorte.com.ar/mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba/",
+    "description": "Mendiolaza se prepara para la primera Carrera de Autos Locos de Córdoba expresionnorte.com.ar",
+    "pub_date": "23/09/2026",
+    "pub_date_raw": "2026-09-23T12:55:31",
+    "image": "/img/590abc6479788c4b.jpg",
+    "source_name": "expresionnorte.com.ar",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "mendiolaza-se-prepara-para-la-primera-carrera-de-autos-locos-de-cordoba-expresionnortecomar",
+    "image_original": "https://expresionnorte.com.ar/wp-content/uploads/2026/09/papapa.jpg"
   }
 }
