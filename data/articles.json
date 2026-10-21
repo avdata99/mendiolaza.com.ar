@@ -5070,11 +5070,12 @@
     "description": "Denuncian a la intendenta de Mendiolaza por usar recursos públicos en la limpieza de un terreno privado Cba24n",
     "pub_date": "01/09/2026",
     "pub_date_raw": "2026-09-01T23:54:52",
-    "image": null,
+    "image": "/img/6a569e2d68067638.jpg",
     "source_name": "Cba24n",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "denuncian-a-la-intendenta-de-mendiolaza-por-usar-recursos-publicos-en-la-limpieza-de-un-terreno-priv"
+    "slug": "denuncian-a-la-intendenta-de-mendiolaza-por-usar-recursos-publicos-en-la-limpieza-de-un-terreno-priv",
+    "image_original": "https://srt-app.tadevel-cdn.com/hostname/www.cba24n.com.ar/api/v1/image/article/6a9761e35dabebc0193a1fbd/facebook?v=98139ba13ed23899803ee824b9b76c25&s=084311bfe733ee6008e3d3e0b86bc707"
   },
   "mendiolaza-inicia-una-nueva-etapa-de-obras-en-el-barrio-lomas-de-mendiolaza": {
     "title": "Mendiolaza inicia una nueva etapa de obras en el barrio Lomas de Mendiolaza",
@@ -6381,5 +6382,18 @@
     "video_id": null,
     "slug": "cortes-de-luz-en-cordoba-y-otras-localidades-los-sectores-afectados-este-martes-canal-c",
     "image_original": "https://canalc.com.ar/wp-content/uploads/2025/07/epec.png"
+  },
+  "se-va-la-intendente-de-mendiolaza-la-justicia-ordeno-continuar-con-el-proceso-de-revocatoria-contra": {
+    "title": "¿Se va la Intendente de Mendiolaza? La Justicia ordenó continuar con el proceso de revocatoria contra Adela Arning",
+    "link": "https://infosierras.com/se-va-la-intendente-de-mendiolaza-la-justicia-ordeno-continuar-con-el-proceso-de-revocatoria-contra-adela-arning/",
+    "description": "El Tribunal Superior de Justicia (TSJ) de Córdoba resolvió que deberá continuar el proceso de revocatoria de mandato contra la Intendente de Mendiolaza, Adela Arning, tras declarar inadmisible el recurso de casación presentado por sus representantes legales. La decisión, establecida en el Auto N.º 185 del 19 de octubre de 2026, confirmó una resolución de […] La entrada ¿Se va la Intendente de Mendiolaza? La Justicia ordenó continuar con el proceso de revocatoria contra Adela Arning aparece primero en InfoSierras.",
+    "pub_date": "21/10/2026",
+    "pub_date_raw": "2026-10-21T02:04:48",
+    "image": "/img/37d87105ce1f00a5.jpg",
+    "source_name": "Info Sierras",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "se-va-la-intendente-de-mendiolaza-la-justicia-ordeno-continuar-con-el-proceso-de-revocatoria-contra",
+    "image_original": "https://infosierras.com/wp-content/uploads/2026/10/arning-se-despide-de-mendiolaza.jpeg"
   }
 }
