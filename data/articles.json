@@ -729,11 +729,12 @@
     "description": "Otro escándalo político de la intendenta de Mendiolaza que desconoce obras de la provincia en la localidad Política Córdoba Verdad",
     "pub_date": "05/03/2026",
     "pub_date_raw": "2026-03-05T11:35:31",
-    "image": null,
+    "image": "/img/de96c44e33a48450.jpg",
     "source_name": "Política Córdoba Verdad",
     "source_type": "google_news",
     "video_id": null,
-    "slug": "otro-escandalo-politico-de-la-intendenta-de-mendiolaza-que-desconoce-obras-de-la-provincia-en-la-loc"
+    "slug": "otro-escandalo-politico-de-la-intendenta-de-mendiolaza-que-desconoce-obras-de-la-provincia-en-la-loc",
+    "image_original": "https://politicacordobaverdad.com.ar/wp-content/uploads/2026/03/Arning-Prunotto.jpg"
   },
   "fieles-catolicos-celebran-la-patronal-de-mendiolaza-cordoba-interior-informa": {
     "title": "Fieles católicos celebran la Patronal de Mendiolaza - Córdoba Interior Informa",
@@ -7108,5 +7109,31 @@
     "video_id": null,
     "slug": "mendiolaza-adela-arning-jugo-la-ultima-carta-contra-su-destitucion-y-relanza-la-gestion-con-figuras",
     "image_original": "https://media.letrap.com.ar/p/391fcb362fcf69453c498fc44e5058e3/adjuntos/349/imagenes/100/192/0100192935/1200x630/smart/adela-arning-analiza-postularse-su-reeleccion.png"
+  },
+  "vecinos-de-mendiolaza-pediran-explicaciones-por-la-obra-en-bv-italia": {
+    "title": "Vecinos de Mendiolaza pedirán explicaciones por la obra en Bv. Italia",
+    "link": "https://infosierras.com/vecinos-de-mendiolaza-pediran-explicaciones-por-la-obra-en-bv-italia/",
+    "description": "La nota será entregada este viernes 20 de noviembre en la Municipalidad y solicita detalles del proyecto, sus plazos y las decisiones que afectan al sector. La entrada Vecinos de Mendiolaza pedirán explicaciones por la obra en Bv. Italia aparece primero en InfoSierras.",
+    "pub_date": "23/11/2026",
+    "pub_date_raw": "2026-11-23T20:08:06",
+    "image": "/img/91381a9a3da8436d.jpg",
+    "source_name": "Info Sierras",
+    "source_type": "rss",
+    "video_id": null,
+    "slug": "vecinos-de-mendiolaza-pediran-explicaciones-por-la-obra-en-bv-italia",
+    "image_original": "https://infosierras.com/wp-content/uploads/2026/11/Muni-Mendiolaza.jpg"
+  },
+  "mendiolaza-abre-el-registro-de-oposicion-para-una-obra-de-gas-que-beneficiara-a-barrios-y-edificios": {
+    "title": "Mendiolaza abre el registro de oposición para una obra de gas que beneficiará a barrios y edificios públicos - Perfil",
+    "link": "https://perfil.com/cordoba/mendiolaza-abre-el-registro-de-oposicion-para-una-obra-de-gas-que-beneficiara-a-barrios-y-edificios-publicos-aQrtJ4G7pd42",
+    "description": "Mendiolaza abre el registro de oposición para una obra de gas que beneficiará a barrios y edificios públicos Perfil",
+    "pub_date": "23/11/2026",
+    "pub_date_raw": "2026-11-23T18:31:57",
+    "image": "/img/545de5e5570d5fb7.jpg",
+    "source_name": "Perfil",
+    "source_type": "google_news",
+    "video_id": null,
+    "slug": "mendiolaza-abre-el-registro-de-oposicion-para-una-obra-de-gas-que-beneficiara-a-barrios-y-edificios",
+    "image_original": "https://media.perfil.com/prod/images/hero/5e1db34a225c-siglo-21-sit-del-pais.webp"
   }
 }
